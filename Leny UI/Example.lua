@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Grayy12/Leny-UI/refs/heads/main/Library.lua", true))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkzisriel/Leny-Ui/refs/heads/main/Leny%20UI/Library.lua", true))()
 
 Library.new({
 	sizeX = 770,
